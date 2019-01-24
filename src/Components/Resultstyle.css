@@ -1,0 +1,14 @@
+.card {
+  background: linear-gradient(to bottom, #6e529d 0%,mediumspringgreen 100%);
+}
+
+.button{
+	background-color: #6e529d;
+    border: none;
+    color: white;
+    padding: 8px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
